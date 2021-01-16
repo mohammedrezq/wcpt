@@ -1,0 +1,61 @@
+/*
+Theme Name: child of Twenty Twenty-One
+Description: Child theme of Twenty Twenty-One
+Author: Mohammed Rezq
+version: 0.1
+Template: twentytwentyone
+*/
+
+/*My Styling Mohammed Rezq*/
+
+.writer-details {
+  width: 600px;
+}
+
+div.writer-firstName {
+  padding: 10px 0 !important;
+}
+div.writer-lastName {
+  padding: 10px 0 !important;
+}
+
+div.writer-biography {
+  padding: 10px 0 !important;
+}
+
+div.writer-facebookUrl {
+  padding: 10px 0 !important;
+}
+
+div.writer-linkedInUrl {
+  padding: 10px 0 !important;
+}
+span.custom-meta-box {
+  font-weight: bolder !important;
+}
+
+.writers-header {
+  color: rgb(54, 46, 46);
+  margin-top: 12px;
+  text-decoration: underline;
+}
+
+div#writers-list-footer {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: auto;
+  align-content: start;
+}
+
+.writer-item {
+  flex-wrap: wrap;
+  margin: 10px;
+}
+
+figure.writer-feature-image {
+  width: 210px;
+  max-height: 100%;
+}
